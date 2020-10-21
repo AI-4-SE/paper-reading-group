@@ -23,7 +23,7 @@ Subscribe for announcements on the sws-all@lists.informatik.uni-leipzig.de.
 The moderator is encouraged to select a paper for the session; Below are some suggestions on papers for the discussion. Feel free to add papers ;)
 
 ### Methodology & Best Practises
-
+* H. Larsson, E. Lindqvist and R. Torkar, "Outliers and Replication in Software Engineering," 2014 21st Asia-Pacific Software Engineering Conference, Jeju, 2014, pp. 207-214, doi: 10.1109/APSEC.2014.40.
 ### Performance
 
 ### Misc
