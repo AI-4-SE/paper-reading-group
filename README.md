@@ -43,8 +43,17 @@ The moderator is encouraged to select a paper for the session; Below are some su
 <details>
 <summary>Papers concerning software performance, energy consumption and other non-functional properties</summary>
   <br>
-<details>
-Bihuan Chen, Yang Liu, and Wei Le. 2016. Generating performance distributions via probabilistic symbolic execution. In Proceedings of the 38th International Conference on Software Engineering (ICSE '16). Association for Computing Machinery, New York, NY, USA, 49–60. DOI:https://doi.org/10.1145/2884781.2884794
-</details>
   
-### Misc
+* Bihuan Chen, Yang Liu, and Wei Le. 2016. Generating performance distributions via probabilistic symbolic execution. In Proceedings of the 38th International Conference on Software Engineering (ICSE '16). Association for Computing Machinery, New York, NY, USA, 49–60. DOI:https://doi.org/10.1145/2884781.2884794
+</details>
+
+### Configurability
+
+## Misc
+<details>
+<summary>Papers concerning software performance, energy consumption and other non-functional properties</summary>
+  <br>
+  
+* Gemma Catolino, Fabio Palomba, Andy Zaidman, Filomena Ferrucci Not all bugs are the same: Understanding, characterizing, and classifying bug types Journal of Systems and Software, Volume 152, 2019, pp. 165-181
+
+</details>
