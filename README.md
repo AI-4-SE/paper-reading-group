@@ -34,9 +34,17 @@ The moderator is encouraged to select a paper for the session; Below are some su
 * Pedro Domingos. 2012. A few useful things to know about machine learning. Commun. ACM 55, 10 (October 2012), 78–87. DOI:https://doi.org/10.1145/2347736.2347755
 * Andreas Zeller, Thomas Zimmermann, and Christian Bird. 2011. Failure is a four-letter word: a parody in empirical research. In Proceedings of the 7th International Conference on Predictive Models in Software Engineering (Promise '11). Association for Computing Machinery, New York, NY, USA, Article 5, 1–7. DOI:https://doi.org/10.1145/2020390.2020395
 * Todd Mytkowicz, Amer Diwan, Matthias Hauswirth, and Peter F. Sweeney. 2009. Producing wrong data without doing anything obviously wrong! In Proceedings of the 14th international conference on Architectural support for programming languages and operating systems (ASPLOS XIV). Association for Computing Machinery, New York, NY, USA, 265–276. DOI:https://doi.org/10.1145/1508244.1508275
+* Abram Hindle, Earl T. Barr, Zhendong Su, Mark Gabel, and Premkumar Devanbu. 2012. On the naturalness of software. In Proceedings of the 34th International Conference on Software Engineering (ICSE '12). IEEE Press, 837–847.
+* Klaas-Jan Stol and Brian Fitzgerald. 2018. The ABC of Software Engineering Research. ACM Trans. Softw. Eng. Methodol. 27, 3, Article 11 (October 2018), 51 pages. DOI:https://doi.org/10.1145/3241743
 </details>
 
 
-### Performance
-
+### Performance & Energy
+<details>
+<summary>Papers concerning software performance, energy consumption and other non-functional properties</summary>
+  <br>
+<details>
+Bihuan Chen, Yang Liu, and Wei Le. 2016. Generating performance distributions via probabilistic symbolic execution. In Proceedings of the 38th International Conference on Software Engineering (ICSE '16). Association for Computing Machinery, New York, NY, USA, 49–60. DOI:https://doi.org/10.1145/2884781.2884794
+</details>
+  
 ### Misc
