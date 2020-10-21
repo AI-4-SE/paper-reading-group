@@ -1,4 +1,4 @@
-# paper-reading-group
+# Paper Reading Group
 
 The paper reading group meets every two weeks during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in receiving invitations contact the organizer.
 
