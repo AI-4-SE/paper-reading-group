@@ -11,7 +11,7 @@ The goals of the reading group are:
 * Practice of reading and argumentation strategies
 * Exposure to a broad range of research topics
 * Practice of leading group discussions
-* The discussion is limited to one hour. The discussion is lead by a moderator, who may also set a focus for the discussion. The moderator will kick off the meeting by giving a short summary of the paper and raising a few points for discussion. The moderator should try to incorporate all participants into the discussion. The * moderator role rotates through all participants. The moderator is encouraged to help with the selection of a paper that week.
+* The discussion is limited to one hour. The discussion is lead by a moderator, who may also set a focus for the discussion. The moderator will kick off the meeting by giving a short summary of the paper and raising a few points for discussion. The moderator should try to incorporate all participants into the discussion. The moderator role rotates through all participants. The moderator is encouraged to help with the selection of a paper that week.
 
 Time and location: Thursdays 9:00 a.m. over BigBlueButton (link is shared in the announcement)
 
@@ -19,8 +19,8 @@ Organizer: Stefan Mühlbauer (muehlbauer (at) informatik.uni-leipzig.de)
 
 Subscribe for announcements on the sws-all@lists.informatik.uni-leipzig.de.
 
-## Paper Suggestions
-The moderator is encouraged to select a paper for the session; Below are some suggestions on papers for the discussion. Feel free to add papers ;)
+## Paper Suggestions (to be extended)
+The moderator is encouraged to select a paper for the session; Below are some suggestions on papers for the discussion, but feel free to add papers ;)
 
 ### Methodology, Overview & Best Practises
 <details>
