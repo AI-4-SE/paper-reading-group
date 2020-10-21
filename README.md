@@ -17,3 +17,12 @@ Time and location: Thursdays 9:00 a.m. over BigBlueButton (link is shared in the
 Organizer: Stefan Mühlbauer (muehlbauer (at) informatik.uni-leipzig.de)
 
 Subscribe for announcements on the sws-all@lists.informatik.uni-leipzig.de.
+
+# Paper Suggestions
+The moderator is encouraged to select a paper for the session; Below are some suggestions on papers for the discussion. Feel free to add papers ;)
+
+## Methodology & Best Practises
+
+## Performance
+
+## Misc
