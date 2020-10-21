@@ -1,5 +1,6 @@
 # Paper Reading Group
 
+## Organizational
 The paper reading group meets every two weeks during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in receiving invitations contact the organizer.
 
 Each session we will discuss a different paper. The paper to discuss is announced about one week in advance by the organizer. All participants are expected to read the paper before the meeting. It is recommended to take notes about insights, questions, and other points potentially worth discussing.
@@ -18,11 +19,11 @@ Organizer: Stefan Mühlbauer (muehlbauer (at) informatik.uni-leipzig.de)
 
 Subscribe for announcements on the sws-all@lists.informatik.uni-leipzig.de.
 
-# Paper Suggestions
+## Paper Suggestions
 The moderator is encouraged to select a paper for the session; Below are some suggestions on papers for the discussion. Feel free to add papers ;)
 
-## Methodology & Best Practises
+### Methodology & Best Practises
 
-## Performance
+### Performance
 
-## Misc
+### Misc
