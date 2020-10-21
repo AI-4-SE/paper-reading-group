@@ -33,6 +33,7 @@ The moderator is encouraged to select a paper for the session; Below are some su
 * Mark Harman. 2007. The Current State and Future of Search Based Software Engineering. In 2007 Future of Software Engineering (FOSE '07). IEEE Computer Society, USA, 342–357. DOI:https://doi.org/10.1109/FOSE.2007.29
 * Pedro Domingos. 2012. A few useful things to know about machine learning. Commun. ACM 55, 10 (October 2012), 78–87. DOI:https://doi.org/10.1145/2347736.2347755
 * Andreas Zeller, Thomas Zimmermann, and Christian Bird. 2011. Failure is a four-letter word: a parody in empirical research. In Proceedings of the 7th International Conference on Predictive Models in Software Engineering (Promise '11). Association for Computing Machinery, New York, NY, USA, Article 5, 1–7. DOI:https://doi.org/10.1145/2020390.2020395
+* Todd Mytkowicz, Amer Diwan, Matthias Hauswirth, and Peter F. Sweeney. 2009. Producing wrong data without doing anything obviously wrong! In Proceedings of the 14th international conference on Architectural support for programming languages and operating systems (ASPLOS XIV). Association for Computing Machinery, New York, NY, USA, 265–276. DOI:https://doi.org/10.1145/1508244.1508275
 </details>
 
 
